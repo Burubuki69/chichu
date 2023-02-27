@@ -1,18 +1,18 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml?raw=true"ia.xml"
 
-#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 1080 Multiaudio 1
+#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD Multiaudio 1
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 1080 Multiaudio 2
+#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD Multiaudio 2
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 720p
+#EXTINF:-1 tvg-logo="https://onx.la/457b3" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD 720p
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="Futbol" tvg-id="DAZN LaLiga",DAZN L1 Multi1
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN LaLiga HD Multi1
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="Futbol" tvg-id="DAZN LaLiga",DAZN L1 Multi2
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN LaLiga HD Multi2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
 #EXTINF:-1 tvg-logo="https://onx.la/1ca53" group-title="Futbol" tvg-id="LaLigaTV Bar HD",LaLigaTV Bar
