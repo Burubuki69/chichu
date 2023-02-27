@@ -15,7 +15,7 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="Futbol" tvg-id="DAZN LaLiga",DAZN L1 Multi2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="https://onx.la/1ca53" group-title="Futbol" tvg-id="LaLigaTV Bar",Liga Bar
+#EXTINF:-1 tvg-logo="https://onx.la/1ca53" group-title="Futbol" tvg-id="LaLigaTV Bar",LaLigaTV Bar
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
 #EXTINF:-1 tvg-logo="https://onx.la/79587" group-title="Futbol" tvg-id="LaLiga SmartbankTV",SmartBank 1080p Multi
