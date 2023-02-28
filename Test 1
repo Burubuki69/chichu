@@ -1,56 +1,55 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml?raw=true"
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD Multiaudio 1
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 1080 Multiaudio 1
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD Multiaudio 2
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 1080 Multiaudio 2
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",M+ LaLigaTV HD 720p
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV",M.Liga 720p
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN LaLiga HD Multi1
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga",DAZN L1 Multi1
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN LaLiga HD Multi2
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga",DAZN L1 Multi2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLigaTV Bar HD",LaLigaTV Bar
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLigaTV Bar",Liga Bar
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV HD",LaLiga SmartbankTV HD Multi
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV",SmartBank 1080p Multi
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M2 HD",LaLiga SmartbankTV M2 HD 1080p
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M2",SmartBank 2 1080p
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M2 HD",LaLiga SmartbankTV M2 HD 720p
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M2",SmartBank 2 720p
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M3 HD",LaLiga SmartbankTV M3 HD 1080p
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV M3",SmartBank 3 1080p
 acestream://1104426e14b649eb23fee16698768544285de478
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones HD 1080 MultiAudio 1
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones",M.L. Campeones 1080 MultiAudio 1
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones HD 1080 MultiAudio 2
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones",M.L. Campeones 1080 MultiAudio 2
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",M+ Liga de Campeones HD 720
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones",M.L. Campeones 720p
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 HD 1080
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 2",M.L. Campeones 2 1080
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD",M+ Liga de Campeones 2 720
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 2",M.L. Campeones 2 720
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 1080
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 3",M.L. Campeones 3 1080
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD",M+ Liga de Campeones 3 HD 720p
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones 3",M.L. Campeones 3 720p
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-
 
 #EXTINF:-1 tvg-logo="" group-title="DAZN" tvg-id="DAZN 1 HD",DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
