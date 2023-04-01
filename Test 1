@@ -21,6 +21,9 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN L1 Multi2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="DAZN LaLiga HD",DAZN L1 720p
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="LaLiga SmartbankTV HD",SmartBank 1080p Multi
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
