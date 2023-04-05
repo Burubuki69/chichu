@@ -123,6 +123,9 @@ acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 #EXTINF:-1 tvg-logo="" group-title="GUIRIS" tvg-id="Fox Sports HD",Fox Sports
 acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 
+#EXTINF:-1 tvg-logo="https://acortar.link/w44fpB" group-title="GUIRIS" tvg-id="Tennis Channel",Tennis Channel
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+
 
 
 
