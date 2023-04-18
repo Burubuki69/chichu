@@ -48,8 +48,15 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080 MultiAudio 2
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080 50 fps
-acestream://420e0f650773fb080b7c3db3dc871930d83dec07
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080 MultiAudio 3
+acestream://6fb454a0120acc80f830e4959d7c9c2f97a1bbe9
+
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080 MultiAudio 4
+acestream://ccb4b3d3daafe67db6d50298849e27619f4b9e4c
+
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080
+acestream://ca65422c1b65887d670f3661ae1290a000bb8ef6
+
 
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 720p
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
