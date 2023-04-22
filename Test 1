@@ -6,6 +6,9 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",Liga 1080 Multi 2
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
+#EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",Liga 1080
+acestram://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",Liga 720p
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
