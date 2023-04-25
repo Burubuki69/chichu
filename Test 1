@@ -60,7 +60,6 @@ acestream://ccb4b3d3daafe67db6d50298849e27619f4b9e4c
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 1080
 acestream://ca65422c1b65887d670f3661ae1290a000bb8ef6
 
-
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ Liga de Campeones HD",L. Campeones 720p
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
@@ -136,7 +135,7 @@ acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="Eurosport 1 HD", Eurosport 1
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="Eurosport 2 HD", Eurosport 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="Eurosport 2", Eurosport 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
