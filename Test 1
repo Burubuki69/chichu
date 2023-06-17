@@ -7,7 +7,7 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",Liga 1080i IPTV
-http://45.84.217.143:2095/live/BastianSuecia12243/AQNbBTDH6fUf/116.ts
+http://45.84.217.28:8080/0003/yaz6PY6SXEFx/201883
 
 #EXTINF:-1 tvg-logo="" group-title="Futbol" tvg-id="M+ LaLigaTV HD",Liga 720p
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
